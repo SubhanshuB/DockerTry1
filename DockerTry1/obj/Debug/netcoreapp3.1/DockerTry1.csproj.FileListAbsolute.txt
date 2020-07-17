@@ -1,0 +1,10 @@
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\bin\Debug\netcoreapp3.1\DockerTry1.exe
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\obj\Debug\netcoreapp3.1\DockerTry1.csprojAssemblyReference.cache
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\obj\Debug\netcoreapp3.1\DockerTry1.AssemblyInfoInputs.cache
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\obj\Debug\netcoreapp3.1\DockerTry1.AssemblyInfo.cs
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\obj\Debug\netcoreapp3.1\DockerTry1.RazorTargetAssemblyInfo.cache
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\obj\Debug\netcoreapp3.1\staticwebassets\DockerTry1.StaticWebAssets.Manifest.cache
+C:\Users\Subhanshu\source\repos\DockerTry1\DockerTry1\obj\Debug\netcoreapp3.1\staticwebassets\DockerTry1.StaticWebAssets.xml
